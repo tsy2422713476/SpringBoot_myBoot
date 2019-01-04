@@ -9,6 +9,11 @@ public class Demo {
 		System.out.println("Tan哈哈2...");
 		System.out.println("Tan哈哈1...");
 		System.out.println("Tan哈哈2...");
+		System.out.println("Tan哈哈0...");
+		System.out.println("Tan哈哈1...");
+		System.out.println("Tan哈哈2...");
+		System.out.println("Tan哈哈1...");
+		System.out.println("Tan哈哈2...");
 	}
 
 }
